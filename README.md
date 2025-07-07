@@ -36,11 +36,22 @@ Git, GitHub, Docker, VS Code
 </table>
 
 ---
-<div align="center">
-## 📈 GitHub Stats
+ <h1 align="left"> 📊 GitHub Stats</h1>
+ <table align="center">
+   <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshwar2006&show_icons=true&theme=github_dark" alt="Yogeshwar's GitHub Stats" />
+   </td>
+   <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwar2006&layout=compact&theme=github_dark" alt="Top Languages" />
+   </td>
+ </table>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,mongodb,vscode,github,docker" />
+  </a>
 
-![Yogeshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
-</div>
+
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -65,10 +76,6 @@ Git, GitHub, Docker, VS Code
   </a>
 </p>
 <br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,mongodb,vscode,github,docker" />
-  </a>
 </p>
 <div align="center">
 💡 “Code is like humor. When you have to explain it, it’s bad.” 
